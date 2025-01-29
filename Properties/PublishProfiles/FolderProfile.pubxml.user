@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\T470\Documents\Projects\MICV\bin\Release\net8.0\publish\</_PublishTargetUrl>
-    <History>True|2025-01-29T02:13:03.6042891Z||;</History>
+    <History>True|2025-01-29T02:52:42.4891874Z||;True|2025-01-28T20:13:03.6042891-06:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

@@ -37,3 +37,4 @@ C:\Users\T470\Documents\Projects\MICV\obj\Debug\net8.0\refint\PortFolioPersonalM
 C:\Users\T470\Documents\Projects\MICV\obj\Debug\net8.0\PortFolioPersonalMVC.pdb
 C:\Users\T470\Documents\Projects\MICV\obj\Debug\net8.0\PortFolioPersonalMVC.genruntimeconfig.cache
 C:\Users\T470\Documents\Projects\MICV\obj\Debug\net8.0\ref\PortFolioPersonalMVC.dll
+C:\Users\T470\Documents\Projects\MICV\obj\Debug\net8.0\PortFolioPersonalMVC.sourcelink.json
