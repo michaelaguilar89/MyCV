@@ -1,0 +1,10 @@
+C:\Users\T470\Documents\Projects\MICV\obj\Release\net8.0\PubTmp\Out\PortFolioPersonalMVC.exe
+C:\Users\T470\Documents\Projects\MICV\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\T470\Documents\Projects\MICV\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\T470\Documents\Projects\MICV\obj\Release\net8.0\PubTmp\Out\PortFolioPersonalMVC.dll
+C:\Users\T470\Documents\Projects\MICV\obj\Release\net8.0\PubTmp\Out\PortFolioPersonalMVC.deps.json
+C:\Users\T470\Documents\Projects\MICV\obj\Release\net8.0\PubTmp\Out\PortFolioPersonalMVC.runtimeconfig.json
+C:\Users\T470\Documents\Projects\MICV\obj\Release\net8.0\PubTmp\Out\PortFolioPersonalMVC.pdb
+C:\Users\T470\Documents\Projects\MICV\obj\Release\net8.0\PubTmp\Out\BouncyCastle.Cryptography.dll
+C:\Users\T470\Documents\Projects\MICV\obj\Release\net8.0\PubTmp\Out\MailKit.dll
+C:\Users\T470\Documents\Projects\MICV\obj\Release\net8.0\PubTmp\Out\MimeKit.dll
