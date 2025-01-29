@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FD9kTsXajEZBaefPAHauLbdP1WbrZsbPt7qweLq356s=",
+  "Hash": "YJ0250JTDOIH/8DMzr9KlC1s/2AfosM2WxgDppq1yMQ=",
   "Source": "PortFolioPersonalMVC",
   "BasePath": "_content/PortFolioPersonalMVC",
   "Mode": "Default",
@@ -99,6 +99,216 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\blazorserver.png",
+      "SourceId": "PortFolioPersonalMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\",
+      "BasePath": "_content/PortFolioPersonalMVC",
+      "RelativePath": "images/blazorserver#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ky4j14agdf",
+      "Integrity": "JI/qlwU7jyyieirRFkXpK0qaBwk8kchXCx2kfKKj99g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\blazorserver.png"
+    },
+    {
+      "Identity": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\mongodb.png",
+      "SourceId": "PortFolioPersonalMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\",
+      "BasePath": "_content/PortFolioPersonalMVC",
+      "RelativePath": "images/mongodb#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jsnkvdwauw",
+      "Integrity": "cwgiXwa/tq00Phw2GahePwrF5Im7kX7w22vePwMMH1k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\mongodb.png"
+    },
+    {
+      "Identity": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\mongodb1.png",
+      "SourceId": "PortFolioPersonalMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\",
+      "BasePath": "_content/PortFolioPersonalMVC",
+      "RelativePath": "images/mongodb1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uqonp3xhvq",
+      "Integrity": "BtJLpp0B5e1iwl70FpeE5vpsqv/fgVQoneepFT0HoPk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\mongodb1.png"
+    },
+    {
+      "Identity": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\mvcimage.jpg",
+      "SourceId": "PortFolioPersonalMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\",
+      "BasePath": "_content/PortFolioPersonalMVC",
+      "RelativePath": "images/mvcimage#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o1wvxh70ph",
+      "Integrity": "/MivJbkMr/NKYklx3wdANrrxE4u9GFD2JxhZWd6Ns78=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\mvcimage.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\net65.png",
+      "SourceId": "PortFolioPersonalMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\",
+      "BasePath": "_content/PortFolioPersonalMVC",
+      "RelativePath": "images/net65#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "54riaeh0tm",
+      "Integrity": "xasHM2BkmIR3gjN8Y151k2Dt0o+z2xbfBnwQvLEk/7M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\net65.png"
+    },
+    {
+      "Identity": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\net8.jpg",
+      "SourceId": "PortFolioPersonalMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\",
+      "BasePath": "_content/PortFolioPersonalMVC",
+      "RelativePath": "images/net8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aovgfdvtb1",
+      "Integrity": "pghaGvQrH1aJgOQ1vBEAp14YMPCr8aiPRamLxllD5ik=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\net8.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\netcore.png",
+      "SourceId": "PortFolioPersonalMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\",
+      "BasePath": "_content/PortFolioPersonalMVC",
+      "RelativePath": "images/netcore#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ilid735wlv",
+      "Integrity": "ZkIRWeU/bn8TawdSDw4kWdXuqCtWY3rghI30LZ6qvBA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\netcore.png"
+    },
+    {
+      "Identity": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\posgresql.png",
+      "SourceId": "PortFolioPersonalMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\",
+      "BasePath": "_content/PortFolioPersonalMVC",
+      "RelativePath": "images/posgresql#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2ecyy7cxqy",
+      "Integrity": "OlH3yQnoa2hklpWLon7+wiKnSAIK89VRlv+VATchZu8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\posgresql.png"
+    },
+    {
+      "Identity": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\sqlserver.png",
+      "SourceId": "PortFolioPersonalMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\",
+      "BasePath": "_content/PortFolioPersonalMVC",
+      "RelativePath": "images/sqlserver#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sqc1jyk6t1",
+      "Integrity": "xHFlWc5P0vU0WTAcqv58MVpPEZfxwYSZNnTOwo2l0VA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sqlserver.png"
+    },
+    {
+      "Identity": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\unnamed.jpg",
+      "SourceId": "PortFolioPersonalMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\",
+      "BasePath": "_content/PortFolioPersonalMVC",
+      "RelativePath": "images/unnamed#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d9fi032gwy",
+      "Integrity": "wSn3yyhKF29ouWlX5XNEuhtBVq5T5xXtUrCFZIR4cY8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\unnamed.jpg"
     },
     {
       "Identity": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\js\\site.js",
@@ -1481,6 +1691,826 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "images/blazorserver.ky4j14agdf.png",
+      "AssetFile": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\blazorserver.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6523"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JI/qlwU7jyyieirRFkXpK0qaBwk8kchXCx2kfKKj99g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 03:47:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ky4j14agdf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/blazorserver.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JI/qlwU7jyyieirRFkXpK0qaBwk8kchXCx2kfKKj99g="
+        }
+      ]
+    },
+    {
+      "Route": "images/blazorserver.png",
+      "AssetFile": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\blazorserver.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6523"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JI/qlwU7jyyieirRFkXpK0qaBwk8kchXCx2kfKKj99g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 03:47:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JI/qlwU7jyyieirRFkXpK0qaBwk8kchXCx2kfKKj99g="
+        }
+      ]
+    },
+    {
+      "Route": "images/mongodb.jsnkvdwauw.png",
+      "AssetFile": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\mongodb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cwgiXwa/tq00Phw2GahePwrF5Im7kX7w22vePwMMH1k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 03:44:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jsnkvdwauw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/mongodb.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cwgiXwa/tq00Phw2GahePwrF5Im7kX7w22vePwMMH1k="
+        }
+      ]
+    },
+    {
+      "Route": "images/mongodb.png",
+      "AssetFile": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\mongodb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cwgiXwa/tq00Phw2GahePwrF5Im7kX7w22vePwMMH1k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 03:44:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cwgiXwa/tq00Phw2GahePwrF5Im7kX7w22vePwMMH1k="
+        }
+      ]
+    },
+    {
+      "Route": "images/mongodb1.png",
+      "AssetFile": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\mongodb1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5069"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BtJLpp0B5e1iwl70FpeE5vpsqv/fgVQoneepFT0HoPk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Jan 2025 21:07:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BtJLpp0B5e1iwl70FpeE5vpsqv/fgVQoneepFT0HoPk="
+        }
+      ]
+    },
+    {
+      "Route": "images/mongodb1.uqonp3xhvq.png",
+      "AssetFile": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\mongodb1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5069"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BtJLpp0B5e1iwl70FpeE5vpsqv/fgVQoneepFT0HoPk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Jan 2025 21:07:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uqonp3xhvq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/mongodb1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BtJLpp0B5e1iwl70FpeE5vpsqv/fgVQoneepFT0HoPk="
+        }
+      ]
+    },
+    {
+      "Route": "images/mvcimage.jpg",
+      "AssetFile": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\mvcimage.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25451"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/MivJbkMr/NKYklx3wdANrrxE4u9GFD2JxhZWd6Ns78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 03:47:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/MivJbkMr/NKYklx3wdANrrxE4u9GFD2JxhZWd6Ns78="
+        }
+      ]
+    },
+    {
+      "Route": "images/mvcimage.o1wvxh70ph.jpg",
+      "AssetFile": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\mvcimage.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25451"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/MivJbkMr/NKYklx3wdANrrxE4u9GFD2JxhZWd6Ns78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 03:47:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1wvxh70ph"
+        },
+        {
+          "Name": "label",
+          "Value": "images/mvcimage.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/MivJbkMr/NKYklx3wdANrrxE4u9GFD2JxhZWd6Ns78="
+        }
+      ]
+    },
+    {
+      "Route": "images/net65.54riaeh0tm.png",
+      "AssetFile": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\net65.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2697"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xasHM2BkmIR3gjN8Y151k2Dt0o+z2xbfBnwQvLEk/7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 03:45:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "54riaeh0tm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/net65.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xasHM2BkmIR3gjN8Y151k2Dt0o+z2xbfBnwQvLEk/7M="
+        }
+      ]
+    },
+    {
+      "Route": "images/net65.png",
+      "AssetFile": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\net65.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2697"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xasHM2BkmIR3gjN8Y151k2Dt0o+z2xbfBnwQvLEk/7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 03:45:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xasHM2BkmIR3gjN8Y151k2Dt0o+z2xbfBnwQvLEk/7M="
+        }
+      ]
+    },
+    {
+      "Route": "images/net8.aovgfdvtb1.jpg",
+      "AssetFile": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\net8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4400"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pghaGvQrH1aJgOQ1vBEAp14YMPCr8aiPRamLxllD5ik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 03:45:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aovgfdvtb1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/net8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pghaGvQrH1aJgOQ1vBEAp14YMPCr8aiPRamLxllD5ik="
+        }
+      ]
+    },
+    {
+      "Route": "images/net8.jpg",
+      "AssetFile": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\net8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4400"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pghaGvQrH1aJgOQ1vBEAp14YMPCr8aiPRamLxllD5ik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 03:45:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pghaGvQrH1aJgOQ1vBEAp14YMPCr8aiPRamLxllD5ik="
+        }
+      ]
+    },
+    {
+      "Route": "images/netcore.ilid735wlv.png",
+      "AssetFile": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\netcore.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZkIRWeU/bn8TawdSDw4kWdXuqCtWY3rghI30LZ6qvBA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Jan 2025 21:11:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ilid735wlv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/netcore.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZkIRWeU/bn8TawdSDw4kWdXuqCtWY3rghI30LZ6qvBA="
+        }
+      ]
+    },
+    {
+      "Route": "images/netcore.png",
+      "AssetFile": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\netcore.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZkIRWeU/bn8TawdSDw4kWdXuqCtWY3rghI30LZ6qvBA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Jan 2025 21:11:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZkIRWeU/bn8TawdSDw4kWdXuqCtWY3rghI30LZ6qvBA="
+        }
+      ]
+    },
+    {
+      "Route": "images/posgresql.2ecyy7cxqy.png",
+      "AssetFile": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\posgresql.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OlH3yQnoa2hklpWLon7+wiKnSAIK89VRlv+VATchZu8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2ecyy7cxqy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/posgresql.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OlH3yQnoa2hklpWLon7+wiKnSAIK89VRlv+VATchZu8="
+        }
+      ]
+    },
+    {
+      "Route": "images/posgresql.png",
+      "AssetFile": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\posgresql.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OlH3yQnoa2hklpWLon7+wiKnSAIK89VRlv+VATchZu8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 03:45:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OlH3yQnoa2hklpWLon7+wiKnSAIK89VRlv+VATchZu8="
+        }
+      ]
+    },
+    {
+      "Route": "images/sqlserver.png",
+      "AssetFile": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\sqlserver.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xHFlWc5P0vU0WTAcqv58MVpPEZfxwYSZNnTOwo2l0VA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 03:44:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xHFlWc5P0vU0WTAcqv58MVpPEZfxwYSZNnTOwo2l0VA="
+        }
+      ]
+    },
+    {
+      "Route": "images/sqlserver.sqc1jyk6t1.png",
+      "AssetFile": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\sqlserver.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xHFlWc5P0vU0WTAcqv58MVpPEZfxwYSZNnTOwo2l0VA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 03:44:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sqc1jyk6t1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sqlserver.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xHFlWc5P0vU0WTAcqv58MVpPEZfxwYSZNnTOwo2l0VA="
+        }
+      ]
+    },
+    {
+      "Route": "images/unnamed.d9fi032gwy.jpg",
+      "AssetFile": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\unnamed.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14405"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wSn3yyhKF29ouWlX5XNEuhtBVq5T5xXtUrCFZIR4cY8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Jan 2025 20:39:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d9fi032gwy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/unnamed.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wSn3yyhKF29ouWlX5XNEuhtBVq5T5xXtUrCFZIR4cY8="
+        }
+      ]
+    },
+    {
+      "Route": "images/unnamed.jpg",
+      "AssetFile": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\unnamed.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14405"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wSn3yyhKF29ouWlX5XNEuhtBVq5T5xXtUrCFZIR4cY8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Jan 2025 20:39:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wSn3yyhKF29ouWlX5XNEuhtBVq5T5xXtUrCFZIR4cY8="
         }
       ]
     },
@@ -6263,7 +7293,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 02:52:20 GMT"
+          "Value": "Wed, 29 Jan 2025 21:56:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6308,7 +7338,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 02:52:20 GMT"
+          "Value": "Wed, 29 Jan 2025 21:56:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6353,7 +7383,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 02:52:20 GMT"
+          "Value": "Wed, 29 Jan 2025 21:56:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6390,7 +7420,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 02:52:20 GMT"
+          "Value": "Wed, 29 Jan 2025 21:56:22 GMT"
         },
         {
           "Name": "Cache-Control",

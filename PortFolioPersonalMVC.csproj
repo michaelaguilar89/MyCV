@@ -14,4 +14,19 @@
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\images\blazorserver.png" />
+    <None Include="wwwroot\images\mongodb.png" />
+    <None Include="wwwroot\images\mvcimage.jpg" />
+    <None Include="wwwroot\images\net65.png" />
+    <None Include="wwwroot\images\net8.jpg" />
+    <None Include="wwwroot\images\posgresql.png" />
+    <None Include="wwwroot\images\sqlserver.png" />
+    <None Include="wwwroot\images\unnamed.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+
 </Project>

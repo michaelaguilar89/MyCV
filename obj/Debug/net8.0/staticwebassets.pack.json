@@ -13,6 +13,46 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\blazorserver.png",
+      "PackagePath": "staticwebassets\\images\\blazorserver.png"
+    },
+    {
+      "Id": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\mongodb.png",
+      "PackagePath": "staticwebassets\\images\\mongodb.png"
+    },
+    {
+      "Id": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\mongodb1.png",
+      "PackagePath": "staticwebassets\\images\\mongodb1.png"
+    },
+    {
+      "Id": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\mvcimage.jpg",
+      "PackagePath": "staticwebassets\\images\\mvcimage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\net65.png",
+      "PackagePath": "staticwebassets\\images\\net65.png"
+    },
+    {
+      "Id": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\net8.jpg",
+      "PackagePath": "staticwebassets\\images\\net8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\netcore.png",
+      "PackagePath": "staticwebassets\\images\\netcore.png"
+    },
+    {
+      "Id": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\posgresql.png",
+      "PackagePath": "staticwebassets\\images\\posgresql.png"
+    },
+    {
+      "Id": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\sqlserver.png",
+      "PackagePath": "staticwebassets\\images\\sqlserver.png"
+    },
+    {
+      "Id": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\images\\unnamed.jpg",
+      "PackagePath": "staticwebassets\\images\\unnamed.jpg"
+    },
+    {
       "Id": "C:\\Users\\T470\\Documents\\Projects\\MICV\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

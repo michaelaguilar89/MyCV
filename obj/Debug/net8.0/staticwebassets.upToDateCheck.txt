@@ -1,5 +1,15 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\blazorserver.png
+wwwroot\images\mongodb.png
+wwwroot\images\mongodb1.png
+wwwroot\images\mvcimage.jpg
+wwwroot\images\net65.png
+wwwroot\images\net8.jpg
+wwwroot\images\netcore.png
+wwwroot\images\posgresql.png
+wwwroot\images\sqlserver.png
+wwwroot\images\unnamed.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
